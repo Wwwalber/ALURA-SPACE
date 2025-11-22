@@ -139,7 +139,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.venv-alsp/
 # Spyder project settings
 .spyderproject
 .spyproject
